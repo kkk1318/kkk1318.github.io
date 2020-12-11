@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: 첫번째 포스팅
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+깃허브를 이용하여 블로그를 운영하는 방법
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+첫번째 포스팅 작성하기 테스트중...
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![이미지추가](/images/jekyll-logo.png)
